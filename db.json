@@ -1,0 +1,55 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "hala",
+      "position": "frontEnd",
+      "avalibiltyDate": "01/02/2022",
+      "salary": 10000,
+      "dateOfBirth": "08/08/1998",
+      "address": "banha",
+      "phoneNumber": 1149334819,
+      "email": "halaafaragg@gmail.com",
+      "maritalStatus": "single"
+    },
+    {
+      "name": "ali",
+      "position": "FrontEnd",
+      "avalibiltyDate": "2002-01-01",
+      "salary": 22222222,
+      "dateOfBirth": "2241-02-02",
+      "address": "gggggg",
+      "phoneNumber": 1111111,
+      "email": "hhhhhhhhhhh@sssss.vvvvvv",
+      "maritalStatus": "1",
+      "resume": "",
+      "id": 2
+    },
+    {
+      "name": "youssef",
+      "position": "Embeded",
+      "avalibiltyDate": "2023-01-01",
+      "salary": 10000,
+      "dateOfBirth": "1997-01-01",
+      "address": "cairo",
+      "phoneNumber": 1245444,
+      "email": "youssef@gmail.com",
+      "maritalStatus": "1",
+      "resume": "C:\\fakepath\\simple-and-clear-your-username-resume.pdf",
+      "id": 3
+    },
+    {
+      "name": "manar zidan",
+      "position": "Sales",
+      "avalibiltyDate": "2023-01-04",
+      "salary": 7000,
+      "dateOfBirth": "1997-01-01",
+      "address": "zag",
+      "phoneNumber": 1111111111,
+      "email": "manaaar@gmail.com",
+      "maritalStatus": "Married",
+      "resume": "C:\\fakepath\\simple-and-clear-your-username-resume.pdf",
+      "id": 4
+    }
+  ]
+}
